@@ -1,5 +1,4 @@
 # 3D_Sample_Holder
-Design of the Sample Holder for  https://doi.org/10.1021/acs.jchemed.6b00121
 
 Design of the Sample Holder for "Transient-Absorption Spectroscopy of Cis–Trans Isomerization of N,N-Dimethyl-4,4′-azodianiline with 3D-Printed Temperature-Controlled Sample HolderClick to copy article link."
 Dmytro Kosenkov, James Shaw, Jennifer Zuczek, and Yana Kholod
